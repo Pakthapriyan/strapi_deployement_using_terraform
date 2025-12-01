@@ -14,6 +14,3 @@ This repository provisions a VPC, public subnet, security group, and one Ubuntu 
 - Strapi via Docker + Docker Compose
 - SQLite (default) with Docker volume persistence
 
-## Clarification
-
-Deployed on Ubuntu EC2 using Docker. In the youtube video, I say deployed using Docker Compose. Docker Compose was only used as a simple wrapper to run the container, and the instance may be stopped for security reasons, when reviewed. Thank you
